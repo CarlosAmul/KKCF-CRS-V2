@@ -1,0 +1,17 @@
+.header {
+    color: green;
+}
+
+#homePageHeader {
+    background-color: lightgrey;
+}
+
+#title {
+    display: inline-block;
+    text-align: center;
+    margin-left: "50%";
+}
+
+#logo {
+    display: inline-block;
+}
