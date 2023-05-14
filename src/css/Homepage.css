@@ -1,9 +1,13 @@
+body {
+    background-color: #339966;
+}
+
 .header {
     color: green;
 }
 
 #homePageHeader {
-    background-color: lightgrey;
+    background-color: #ededed;
 }
 
 #title {
@@ -14,4 +18,31 @@
 
 #logo {
     display: inline-block;
+}
+
+.sectionContainer {
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+}
+
+.section {
+    width: 40%;
+    vertical-align: top;
+    margin-left: 30%;
+}
+
+.subHeader {
+    color: #ffee80;
+    margin-bottom: 20px;
+    text-align: center;
+} 
+
+.button {
+    background-color: #ededed;
+    color: #006634;
+    font-weight: bold;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 2px;
 }
